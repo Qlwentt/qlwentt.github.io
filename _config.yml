@@ -17,7 +17,6 @@ resume-external: false
 resume-url: assets/pdfs/Quai_Wentt_Resume_2018-AUG.pdf
 
 url: https://qlwentt.github.io
-# your url: http://USERNAME.github.io
 
 permalink: /:title/
 
