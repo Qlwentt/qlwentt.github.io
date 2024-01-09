@@ -14,7 +14,7 @@ picture: assets/images/profile.png
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/pdfs/Quai-Resume-JUNE-2023.pdf
+resume-url: assets/pdfs/Quai-Resume-JAN_2024.pdf
 
 url: https://qlwentt.github.io
 
@@ -29,8 +29,8 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [] # only show disqus for posts that have these categories
+    shortname: mydisqus # enter this from your disqus account
+    categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -101,11 +101,11 @@ show-author: true
 animation: true
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-admin
+    - jekyll-seo-tag
+    - jekyll-gist
+    - jekyll-feed
+    - jemoji
+    - jekyll-admin
 
 jekyll-mentions:
     base_url: https://github.com
